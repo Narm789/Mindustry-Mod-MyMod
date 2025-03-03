@@ -4,5 +4,9 @@ MyMod/
    ├── blocks/
    ├── turrets/
    │    ├── Doom-Hammer.json
+   ├── sprites/
+   ├── blocks/
+   ├── turrets/
+   │    ├── Doom-Hammer.png
    ├── README.md
    ├── LICENSE
