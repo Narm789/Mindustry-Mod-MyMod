@@ -1,7 +1,8 @@
 MyMod/
    ├── mod.yaml
    ├── content/
-   │    ├── turret.json
-   │    ├── turret.png
+   ├── blocks/
+   ├── turrets/
+   │    ├── Doom-Hammer.json
    ├── README.md
    ├── LICENSE
